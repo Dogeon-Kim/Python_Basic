@@ -1,3 +1,5 @@
+
+
 '''
 # for in collection
 #       <loop body>
@@ -111,3 +113,4 @@ print(set(reversed(a)))
 a = list(reversed(a))
 print(a)
 print(''.join(map(str, a)))
+
